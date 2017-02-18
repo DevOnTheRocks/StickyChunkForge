@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stickychunkforge",
+  "name": "StickyChunkForge",
+  "description": "A Forge Mod that adds StickyChunk's chunk loads to JourneyMap",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mohron"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
